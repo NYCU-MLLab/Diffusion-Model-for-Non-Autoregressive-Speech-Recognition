@@ -1,0 +1,7 @@
+numpy
+pandas
+soundfile
+torch
+torchaudio
+transformers
+jiwer
